@@ -165,12 +165,12 @@ button:focus {
     background: #66ddbd;
     z-index: 11000;
     position: fixed;
-    display: block;
+    margin display: block;
 }
 
 .pulse {
-    height: 150px;
-    width: 200px;
+    height: 300px;
+    width: 500px;
     overflow: hidden;
     position: absolute;
     top: 0;
