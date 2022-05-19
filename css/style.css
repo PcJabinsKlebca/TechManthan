@@ -169,8 +169,8 @@ button:focus {
 }
 
 .pulse {
-    height: 300px;
-    width: 500px;
+    height: 200px;
+    width: 250px;
     overflow: hidden;
     position: absolute;
     top: 0;
