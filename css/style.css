@@ -204,7 +204,7 @@ button:focus {
     height: 3px;
 }
 
-@-webkit-keyframes pulse {
+/*@-webkit-keyframes pulse {
     0% {
         clip: rect(0, 0, 100px, 0);
         opacity: 0.4;
@@ -233,9 +233,9 @@ button:focus {
         clip: rect(0, 300px, 100px, 0);
         opacity: 0;
     }
-}
+}*/
 
-@keyframes pulse {
+/*@keyframes pulse {
     0% {
         clip: rect(0, 0, 100px, 0);
     }
@@ -260,7 +260,7 @@ button:focus {
         clip: rect(0, 300px, 100px, 0);
         opacity: 0;
     }
-}
+}*/
 
 .pulse {
     text-align: center;
@@ -269,6 +269,27 @@ button:focus {
 .pulse i {
     color: #ffffff;
     font-size: 38px;
+}
+
+.pulse h1 {
+    font-family: monospace;
+    font-size: 1rem;
+    color: black;
+    text-transform: capitalize;
+}
+
+.pulse h2 {
+    color: black;
+    font-weight: bold;
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 1.2em;
+    text-transform: capitalize;
+}
+
+.pulse h3 {
+    color: black;
+    font-weight: 500;
+    text-transform: capitalize;
 }
 
 
