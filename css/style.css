@@ -462,6 +462,11 @@ button:focus {
     transform: scale(1.05);
 }
 
+.img-events {
+    height: 550px;
+    width: 100%;
+}
+
 .lbox-details a.btn:hover {
     background: #dd666c;
 }
