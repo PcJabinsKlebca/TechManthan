@@ -166,7 +166,7 @@ button:focus {
     background: linear-gradient(167deg, rgba(247, 255, 147, 1) 24%, rgba(0, 255, 221, 1) 83%);
     z-index: 11000;
     position: fixed;
-    margin display: block;
+    display: block;
 }
 
 .pulse {
