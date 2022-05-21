@@ -162,7 +162,8 @@ button:focus {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #66ddbd;
+    background: rgb(247, 255, 147);
+    background: linear-gradient(167deg, rgba(247, 255, 147, 1) 24%, rgba(0, 255, 221, 1) 83%);
     z-index: 11000;
     position: fixed;
     margin display: block;
@@ -204,6 +205,7 @@ button:focus {
     height: 3px;
 }
 
+
 /*@-webkit-keyframes pulse {
     0% {
         clip: rect(0, 0, 100px, 0);
@@ -234,6 +236,7 @@ button:focus {
         opacity: 0;
     }
 }*/
+
 
 /*@keyframes pulse {
     0% {
@@ -281,7 +284,7 @@ button:focus {
 .pulse h2 {
     color: black;
     font-weight: bold;
-    font-family: 'Ubuntu',sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 1.2em;
     text-transform: capitalize;
 }
