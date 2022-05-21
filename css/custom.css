@@ -3,3 +3,7 @@
         font-size: 0.8rem !important;
     }
 }
+
+.event-list {
+    list-style-type: disc !important;
+}
