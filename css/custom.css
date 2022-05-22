@@ -7,3 +7,23 @@
 .event-list {
     list-style-type: disc !important;
 }
+
+.student-coordinate-tittle {
+    text-decoration: underline;
+}
+
+.modal-body a {
+    font-size: 0.9rem;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+}
+
+.modal-body a:hover {
+    background-color: #28a745;
+}
+
+.bg-success {
+    margin-left: 2%;
+}
